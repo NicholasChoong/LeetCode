@@ -1,0 +1,11 @@
+{
+    "errorLens.enabled": false,
+    "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-19",
+            "path": "/Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home",
+            "default": true
+        }
+    ]
+}
