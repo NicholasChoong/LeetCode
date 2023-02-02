@@ -1,3 +1,5 @@
+package jav.easy._14_longest_common_prefix;
+
 import java.util.*;
 
 class Solution {

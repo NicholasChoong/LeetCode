@@ -1,3 +1,5 @@
+package jav.easy._14_longest_common_prefix;
+
 public class BinarySearch {
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0)

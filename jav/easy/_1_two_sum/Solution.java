@@ -1,3 +1,5 @@
+package jav.easy._1_two_sum;
+
 import java.util.HashMap;
 
 class Solution {
